@@ -7,7 +7,7 @@ public class BankingSystem {
         double balance = 0.0;
 
         while (true) {
-            System.out.println("\n--- Banking System ---");
+            System.out.println("Welcome in Banking System ");
             System.out.println("1. Create Account");
             System.out.println("2. Login");
             System.out.println("3. Exit");
